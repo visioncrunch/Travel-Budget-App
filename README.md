@@ -1,6 +1,6 @@
 # Travel-Budgeting-App
 
-Please read the files in [[blue-print]] in this order:
+Please read the files in this order:
 
 	Problem
 	AI Suggestions

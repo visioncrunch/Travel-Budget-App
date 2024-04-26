@@ -1,0 +1,8 @@
+1. Time that could have been used to explore was wasted in budget calculation![[time spent on calculations.png]]
+2. Miscalculations happen a lot![[miscalculations.png]]
+3. Rechecking needs to be done![[rechecking.png]]
+4. Every member has to keep themselves informed of their transactions.![[staying uptodate.png]]
+5. Every member must understand the calculation![[learn the math.png]]
+6. Some spends forgotten remain forgotten and cause problems while tracking spends![[forgotten steps.png]]
+7. conventional pen paper method changes it's form with subsequent trips, not universal![[discarded pen paper method.png]]
+9. if this paper is lost, no way to recover that else to re-iterate all transactions!!!![[once lost is lost.png]]
